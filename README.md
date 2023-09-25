@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Shreya, a graduate student at Rutgers University with a passion for crafting scalable and efficient technology solutions.
+
+In the world of technology, I've built a versatile skill set encompassing languages like Java, Golang, and Python, and I'm well-versed in databases such as PostgreSQL and MySQL. My toolkit also includes Docker, Kubernetes, Angular, Spring Boot, JavaScript.
+
+What truly drives my enthusiasm is the craft of system design. System design is the art of crafting solutions that turn complexity into simplicity, and chaos into order. In the realm of Computer Science, I see myself as a problem solver, sculpting elegant solutions for intricate challenges. My approach is straightforward: I believe in starting by defining the best solution and then choosing the right tools and methods to make it a reality.
+
+Outside of my tech pursuits, I'm a music enthusiast with a taste ranging from Indian classical to epic soundtracks. I'm also an anime aficionado, and I enjoy staying active with sports like badminton. My diverse hobbies showcase my love for exploration and continuous learning.
+
+Excited to connect and engage with fellow professionals on LinkedIn, where we can exchange insights and inspirations, not only in the realm of technology but across all our shared interests. Let's build meaningful connections and explore new horizons together! :)Hello! I'm Shreya, a graduate student at Rut
 
 <!--
 **314shreya/314shreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
